@@ -125,15 +125,15 @@ export default function Home() {
             Of The World
           </h2>
           <div className='popular_container container grid'>
-            <Popular altImage='popular image' country='Canada' image='/popular-mountain.jpg' title='Logan Mountain'/>
-            <Popular altImage='popular image' country='Irland' image='/popular-forest.jpg' title='Spike Forest'/>
-            <Popular altImage='popular image' country='Italy' image='/popular-lake.jpg' title='Garda Lake'/>
+            <Popular altImage='popular image' country='Italy' image='/popular-capri.png' title='Capri'/>
+            <Popular altImage='popular image' country='Australia' image='/popular-greatbarrierreef.png' title='Great Barrier Reef'/>
+            <Popular altImage='popular image' country='United States' image='/popular-grandcayon.png' title='Grand Canyon'/>
           </div>
         </section>
         <section className='explore section' id='explore'>
           <div className='explore_container'>
             <div className='explore_image'>
-              <img src='/explore-beach.jpg' alt='explore image' className='explore_img'/>
+              <img src='/explore-beach.png' alt='explore image' className='explore_img'/>
               <div className='explore_shadow'></div>
             </div>
             <div className='explore_content container grid'>
@@ -153,7 +153,7 @@ export default function Home() {
               <div className='explore_user'>
                 <img src='/explore-perfil.png' alt='explore image' className='explore_perfil'/>
                 <span className='explore_name'>
-                  Paul Jeams
+                  Gustavo Laos
                 </span>
               </div>
             </div>
@@ -178,7 +178,7 @@ export default function Home() {
               </form>
             </div>
             <div className='join_image'>
-              <img src='/join-island.jpg' alt='join island' className='join_img' />
+              <img src='/join-island.png' alt='join island' className='join_img' />
               <div className='join_shadow'></div>
             </div>
           </div>
@@ -217,7 +217,7 @@ export default function Home() {
               </a>
             </div>
             <span className='footer_copy'>
-              © Copyright DCode. All rights reserved
+              © Copyright Travel. All rights reserved
             </span>
           </div>
         </div>
