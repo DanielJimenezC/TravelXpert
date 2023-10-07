@@ -7,4 +7,6 @@
 - HTML
 - CSS
 - JavaScript
+- React
+- Next
 - Mobile-first workflow
