@@ -3,6 +3,7 @@ import './style/page.style.css'
 import './style/header.style.css'
 import './style/footer.style.css'
 import './style/main.style.css'
+import './style/mediaquery.css'
 
 import { useEffect, useState } from 'react'
 import { BiChevronsRight, BiMenu, BiX } from 'react-icons/bi'

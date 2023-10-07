@@ -93,6 +93,7 @@
 
 .about_data {
   text-align: center;
+  z-index: 5;
 }
 
 .about_description {
